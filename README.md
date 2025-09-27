@@ -19,5 +19,3 @@ Faith and family come first in my life. Everything else is just details.
 ## Let's Connect
 
 Always up for talking shop about C#, TypeScript, AI development, or disc golf. Feel free to reach out if any of my projects catch your eye or if you want to chat about making the career change into tech.
-
-That's how we do it. 🥏
