@@ -4,7 +4,7 @@ I'm Patrick, a software developer from Palm Bay, Florida (originally a Long Isla
 
 ## What I Do
 
-I spend my days building things with C# .NET and my nights tinkering with TypeScript fullstack projects. Got experience with Angular, React, and Node.js backends. These days I'm all about AI-assisted development. GitHub Copilot at work, Claude Code for personal projects. The future is here and it's pretty awesome.
+I spend my days building things with **C# .NET** and my nights tinkering with **TypeScript** fullstack projects. Got experience with **Angular**, **React**, **Node.js** backends (server frameworks like **Express.js** and **Hapi**), and databases like *MSSQL* and *MongoDB*. These days I'm all about AI-assisted development. GitHub Copilot at work, Claude Code for personal projects. The future is here and it's pretty awesome.
 
 ## My Journey
 
